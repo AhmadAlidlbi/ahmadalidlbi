@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Alidlbi</h1>
-<h3 align="center">I'm a Software Engineer based in kuwait</h3>
+<h3 align="center">I'm a Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.ahmadalidlbi.com/](https://www.ahmadalidlbi.com/)
 
